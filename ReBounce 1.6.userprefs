@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Space Shooter\Assets\Scripts\spaceshipScript.js">
+    <Files>
+      <File FileName="..\Space Shooter\Assets\Scripts\spaceshipScript.js" Line="3" Column="32" />
+      <File FileName="..\Space Shooter\Assets\Scripts\bulletScript.js" Line="10" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
